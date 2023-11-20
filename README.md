@@ -20,7 +20,7 @@ Show content
 
 ### What is cloud computing?
 
-It's a resource rental based on a pay per use approach, abstracting the hardware from the users.
+Cloud computing is the delivery of computing services, including servers, storage, databases, networking, analytics, and intelligence, over the internet.
 
 ### Cloud Computing Services
 
