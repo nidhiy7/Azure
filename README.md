@@ -194,8 +194,6 @@ Show content
 
 Azure is Microsoft's cloud computing platform.
 
-![img](./assets/introduction-to-azure/azure-services.png)
-
 It offers a lot of services of different nature:
 
 * **Compute**: helping in hosting applications and services.
