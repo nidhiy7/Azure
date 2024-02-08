@@ -19,8 +19,8 @@ Show content
 * Cloud deployment model
 
 ### What is cloud computing?
+Cloud computing is the delivery of computing services like servers, storage, and software over the internet. Users can access these services on-demand without owning physical infrastructure. It offers scalability, cost-efficiency, and accessibility from anywhere with an internet connection .
 
-Cloud computing is the delivery of computing services, including servers, storage, databases, networking, analytics, and intelligence, over the internet.
 
 ### Cloud Computing Services
 
