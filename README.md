@@ -21,6 +21,20 @@ Show content
 ### What is cloud computing?
 Cloud computing is the delivery of computing services like servers, storage, and software over the internet. Users can access these services on-demand without owning physical infrastructure. It offers scalability, cost-efficiency, and accessibility from anywhere with an internet connection .
 
+### Benefits of Cloud Computing
+
+* **Cost-Effective**: Users only pay for the resources they consume, eliminating the need for large upfront capital expenditures. This pay-as-you-go model can result in significant cost savings compared to traditional IT infrastructure.
+* **Scalable**: 
+* **Elastic**: Can automatically adapt to workload changes by adding or removing resources.
+
+* **Current**: By removing the need of managing hardware and other IT tasks, you can focus on just building and deploying your apps.
+
+* **Reliable**: As it offers backups, disaster recovery and data replication services to make sure that your data is always safe. If on top you follow redudancy on your architectures you can avoid single points of failure.
+
+* **Global**: With datacenters all over the globe, you can have presence close to your customers and reduce response time.
+
+* **Secure**: Offering policies, technologies and controls.
+
 
 ### Cloud Computing Services
 
@@ -120,60 +134,8 @@ A cloud deployment model defines where the data is stored and how customers inte
 ![img](./assets/principles-of-cloud-computing/responsibility.png)
 
 
-### Knowledge Check
-
-1. Which term from the list below would be viewed as benefits of using cloud services?
-
-* Unpredictable costs
-* Elasticity
-* Local reach only
-
-    <details>
-    <summary> 
-    Answer
-    </summary>
-    <p>
-    Elasticity: Elasticity, Agility and Economies of scale are the correct answers, and would be seen as benefits that you can gain from using cloud services.
-    </p>
-    </details>
 
 
-2. Suppose you have two types of applications: legacy applications that require specialized mainframe hardware and newer applications that can run on commodity hardware. Which cloud deployment model would be best for you?
-
-
-* Public cloud
-* Private cloud
-* Hybrid cloud
-
-    <details>
-    <summary> 
-    Answer
-    </summary>
-    <p>
-    Hybrid cloud: A hybrid cloud is a public and private cloud combined. You can run your new applications on commodity hardware you rent from the public cloud and maintain your specialized mainframe hardware on-premises.
-    </p>
-    </details>
-
-3. You're developing an application and want to focus on building, testing, and deploying. You don't want to worry about managing the underlying hardware or software. Which cloud service type is best for you?
-
-* Infrastructure as a Service (IaaS)
-* Platform as a Service (PaaS)
-* Software as a Service (SaaS)
-
-
-    <details>
-    <summary> 
-    Answer
-    </summary>
-    <p>
-    Platform as a Service (PaaS): Platform as a Service is the best choice here because the PaaS services handle the IT management tasks for you, so you can focus on writing code.
-    </p>
-    </details>
-
-</p>
-</details>
-
----
 
 ## Introduction to Azure
 
